@@ -1,0 +1,5 @@
+# Tableau--Tracking-the-performance-of-volunteers-and-children-across-different-shelter-homes
+
+Make a Difference is a non-profit organization that works for children in shelter homes to build a community around them, who want to contribute to help build long-term solutions towards ensuring equitable outcomes. The organization supports children in over 35 shelters across India and has a volunteer base of around 3200 people across the country. Volunteers go to shelters on a weekly basis to ensure support for children not only in terms of academics but also try to inculcate life skills.
+
+The current challenge is to monitor and evaluate operational health parameters such as attendance percentage of volunteers, volunteer dropouts, child attendance %, and the progress of children over the course of time through interactions with volunteers, fellow children, and training. Constant monitoring would help flag potential challenges to ensure operational quality and consistency. Secondly, shelter managers interact with children on a weekly basis and get qualitative data from the children to enable the feedback of operations through a project called the voice of the child.
